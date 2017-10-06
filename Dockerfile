@@ -3,7 +3,7 @@
 # Environment: nodejs
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM resin/qemux86-alpine-python
+FROM python:alpine
 
 MAINTAINER Alexander Thurman, <it.snake.co.inc@gmail.com>
 
